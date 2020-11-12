@@ -1,5 +1,5 @@
 f# BFS-Firefighter-using-C
-![Screenshot](/screenshots/Screenshot.png)
+![Screenshot](screenshots/Screenshot.png)
 C program with SDL graphical interface that simulates a firefighting Robot that finds his quickest way to a fire using the path finding algorithm BFS. 
 The robot can only carry 3 buckets of water at a time and each fire might require from 1 to 3 buckets of water. If the robot doesn't have enough water, he will return to the station to fill up.
 You'll need the sdl, sdl_image and ttf libraries. 
